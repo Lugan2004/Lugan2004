@@ -1,4 +1,6 @@
-###Hi there, 👋I am Lugan Visagie.
+### Hi there, 👋 I am Lugan Visagie.
+
+
 ![giphy (1)](https://github.com/Lugan2004/Lugan2004/assets/143476723/1fd8da8c-bffb-4e3b-b8f6-c8b9fc01e713)
 
 <!--
