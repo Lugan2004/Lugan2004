@@ -11,13 +11,27 @@ About Me 🌟 🔭 I'm currently working on my Codespace Project. 🌱 I'm curre
 
 **Skills and Technologies 💻**
 - Languages: HTML5,CSS3 and JavaScript.
+  
 - Frameworks: Tailwind CSS.
 - Tools: VS CODE,Github and Figma.
 - Other: Firebase.
+  
+**Toolbox🧰**
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCODE Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase log" width="50" height="50">
+
+
+
+
+
+
+
+
+
 
  **Projects 🚀 Here are some of my notable projects:**
 
-- Project BlackJack game: A black Jack game designed with JavaScript,HTML and CSS .
+- Project BlackJack game: A black Jack game designed with JavaScript,HTML and CSS 
 - Project Responive Cach bank website: Responsive and dynamic website created with Tailwind CSS.
 - Project Fill the cart web app: A web app designed With the use of a firebase database.
   
