@@ -37,7 +37,7 @@ About Me 🌟 🔭 I'm currently working on my Codespace Project. 🌱 I'm curre
   
    **Check out my repositories for more projects!**
 
-Connect with Me 📱 [LinkedIn](lugan-visagie-ab3794268)
+Connect Me on 📱 [LinkedIn](lugan-visagie-ab3794268)
 
 Email(visagielugan42@gmail.com) Feel free to reach out and connect! I'm always open to collaboration and new opportunities.
 
