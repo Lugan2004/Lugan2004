@@ -41,7 +41,11 @@ Connect with Me 📱 [LinkedIn](lugan-visagie-ab3794268)
 
 Email(visagielugan42@gmail.com) Feel free to reach out and connect! I'm always open to collaboration and new opportunities.
 
-Stats 📊
+# Stats 📊
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lugan2004&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lugan2004&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Thank You! 🙏 Thank you for visiting my GitHub profile! Feel free to explore my projects and repositories. Don't hesitate to reach out if you have any questions or would like to collaborate on a project. Have a great day! 😊
 
