@@ -33,7 +33,7 @@ About Me 🌟 🔭 I'm currently working on my Codespace Project. 🌱 I'm curre
 
 - Project [BlackJack game](https://github.com/Lugan2004/Black-jack-app): A black Jack game designed with JavaScript,HTML and CSS 
 - Project [Responsive Cache bank website](https://github.com/Lugan2004/LUGVIS340_WFC2401_LuganVisagie_GroupA_SDF11) : Responsive and dynamic website created with Tailwind CSS.
-- Project [Fill the cart web app](https://github.com/Lugan2004/LUGVIS340_WFC2401_LuganVisagie_SDF07/tree/main/LUGVIS340_WFC2401_LuganVisagie_SDF07): A web app designed With the use of a firebase database.
+- Project [Fill the cart web app](https://add-to-cart-lugan-visagie.netlify.app/): A web app designed With the use of a firebase database.
   
    **Check out my repositories for more projects!**
 
