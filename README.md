@@ -7,7 +7,7 @@
 ---
 I'm a passionate Programmer based in Cape town, South Africa, with a keen interest in Game Development. Welcome to my GitHub profile!
 
-About Me 🌟 🔭 I'm currently working on my Codespace Project. 🌱 I'm currently learning JavaScript. 💬 Ask me about Tailwind CSS and HTML5.
+About Me 🌟 🔭 I'm currently working on my Discord bot Project. 🌱 I'm currently learning JavaScript. 💬 Ask me about Tailwind CSS and HTML5.
 **📫 How to reach me: Visagielugan42@gamil.com.**
 
 **Skills and Technologies 💻**
