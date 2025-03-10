@@ -25,6 +25,7 @@ I'm a passionate programmer specializing in web development with expertise in Ja
 - HTML5 & CSS3
 - Java
 - MySQL
+- Python
 
 #### Frameworks & Libraries
 - Next.js (specialty)
@@ -32,6 +33,7 @@ I'm a passionate programmer specializing in web development with expertise in Ja
 - Tailwind CSS
 - Angular
 - Spring Boot
+- Flask
 
 #### Tools & Platforms
 - VS Code
@@ -41,7 +43,7 @@ I'm a passionate programmer specializing in web development with expertise in Ja
 
 ### Tech Stack 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" alt="Firebase Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50">
 
 ### Featured Projects 🚀
 
@@ -49,15 +51,20 @@ I'm a passionate programmer specializing in web development with expertise in Ja
    - Full-stack project management tool with user authentication
    - Technologies: Spring Boot, MySQL, JavaScript, React
 
-2. **[Podcast Playground](https://the-podcast-playground.vercel.app/)**
+2. **Job Application Tracker**
+   - Web application that helps track and manage job applications efficiently
+   - Features record keeping, status updates, and progress monitoring
+   - Technologies: Flask, Python, HTML/CSS, SQL
+
+3. **[Podcast Playground](https://the-podcast-playground.vercel.app/)**
    - A dynamic podcast platform utilizing API integration to display podcasts and seasons
    - Technologies: React, JavaScript, API integration
 
-3. **[Cash Bank Website](https://github.com/Lugan2004/LUGVIS340_WFC2401_LuganVisagie_GroupA_SDF11)**
+4. **[Cash Bank Website](https://github.com/Lugan2004/LUGVIS340_WFC2401_LuganVisagie_GroupA_SDF11)**
    - Responsive and dynamic banking website with modern UI
    - Technologies: Tailwind CSS, HTML5, JavaScript
 
-4. **[Fill the Cart](https://add-to-cart-lugan-visagie.netlify.app/)**
+5. **[Fill the Cart](https://add-to-cart-lugan-visagie.netlify.app/)**
    - Interactive shopping cart web application with backend integration
    - Technologies: JavaScript, Firebase
 
