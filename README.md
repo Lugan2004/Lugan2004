@@ -1,19 +1,27 @@
-### Hi there, <img src="https://private-user-images.githubusercontent.com/143476723/310498340-1fd8da8c-bffb-4e3b-b8f6-c8b9fc01e713.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5MjEwNDUsIm5iZiI6MTcwOTkyMDc0NSwicGF0aCI6Ii8xNDM0NzY3MjMvMzEwNDk4MzQwLTFmZDhkYThjLWJmZmItNGUzYi1iOGY2LWM4YjlmYzAxZTcxMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwOFQxNzU5MDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NzZhZmQ2NzA1YzAzZDE2OTU4ZDczYmMzMTQzYmIzNjlkYjBhZGU1YTMwNjhkYmY4ZDQ1NzNhNjUwNDQwMGJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.q3byxp2EHS1s_SlS_kWNqpvyl_dqpQkidRUzghKkTr4" width=30> I am Lugan Visagie.
+### Hi there, I am Lugan Visagie.
 
 
 
 
 
 ---
-I'm a passionate Programmer based in Cape town, South Africa, with a keen interest in Game Development. Welcome to my GitHub profile!
+I'm a passionate Programmer based in Cape town, South Africa, with a keen interest in web developtment. Welcome to my GitHub profile!
 
-About Me 🌟 🔭 I'm currently working on my Discord bot Project. 🌱 I'm currently learning JavaScript. 💬 Ask me about Tailwind CSS and HTML5.
+About Me 🌟 🔭 I'm currently working on my Discord bot Project. 🌱 I'm currently learning Java. 💬 Ask me about Tailwind CSS and HTML5.
 **📫 How to reach me: Visagielugan42@gamil.com.**
 
 **Skills and Technologies 💻**
-- Languages: HTML5,CSS3 and JavaScript.
+- Languages: HTML5,CSS3
+  -  JavaScript.
+  -  Java
+  -  Typescript
   
-- Frameworks: Tailwind CSS.
+- Frameworks:
+  - Tailwind CSS.
+  - React
+  - Angular
+  - Springboot
+  - NextJS
 - Tools: VS CODE,Github and Figma.
 - Other: Firebase.
   
@@ -32,7 +40,7 @@ About Me 🌟 🔭 I'm currently working on my Discord bot Project. 🌱 I'm cur
 
  **Projects 🚀 Here are some of my notable projects:**
 
-- Project [BlackJack game](https://blackjack-app-lugan.netlify.app/): A black Jack game designed with JavaScript,HTML and CSS 
+- Project ➡️[Podcast-app](https://the-podcast-playground.vercel.app/). A podcast app using utilizing the use of an api to display the podacasts and seasons
 - Project [Responsive Cache bank website](https://github.com/Lugan2004/LUGVIS340_WFC2401_LuganVisagie_GroupA_SDF11) : Responsive and dynamic website created with Tailwind CSS.
 - Project [Fill the cart web app](https://add-to-cart-lugan-visagie.netlify.app/): A web app designed With the use of a firebase database.
   
